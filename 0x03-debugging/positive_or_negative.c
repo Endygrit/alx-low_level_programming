@@ -1,11 +1,4 @@
 #include "main.h"
-#include <stdio.h>
-/**
- * positive_or_negative - prints positive or negative numbers
- * @i: parameter to take in numbers
- *
- * Return: void
- */
 
 void positive_or_negative(int i)
 {
